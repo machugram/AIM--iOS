@@ -92,15 +92,6 @@
 		7B7FF596271B1A320061D258 = {
 			isa = PBXGroup;
 			children = (
-				7B69F0742863C11C0047F023 /* ProfileView.swift */,
-				7B69F0722863BC440047F023 /* FeesView.swift */,
-				7B69F0702863BBE20047F023 /* SettingsView.swift */,
-				7B69F06E2863BBD80047F023 /* DownloadView.swift */,
-				7B69F06C2863BBC40047F023 /* LecturerAssessmentView.swift */,
-				7B69F06A2863BB980047F023 /* TimeTableView.swift */,
-				7B69F0682863B7E80047F023 /* CardView.swift */,
-				7B69F0662863B5440047F023 /* NextClassView.swift */,
-				7B69F0642863B4740047F023 /* HomePageView.swift */,
 				7B7FF5A1271B1A320061D258 /* AIM -iOS */,
 				7B7FF5B2271B1A340061D258 /* AIM -iOSTests */,
 				7B7FF5BC271B1A340061D258 /* AIM -iOSUITests */,
@@ -121,6 +112,15 @@
 		7B7FF5A1271B1A320061D258 /* AIM -iOS */ = {
 			isa = PBXGroup;
 			children = (
+				7B69F0742863C11C0047F023 /* ProfileView.swift */,
+				7B69F0722863BC440047F023 /* FeesView.swift */,
+				7B69F0702863BBE20047F023 /* SettingsView.swift */,
+				7B69F06E2863BBD80047F023 /* DownloadView.swift */,
+				7B69F06C2863BBC40047F023 /* LecturerAssessmentView.swift */,
+				7B69F06A2863BB980047F023 /* TimeTableView.swift */,
+				7B69F0682863B7E80047F023 /* CardView.swift */,
+				7B69F0662863B5440047F023 /* NextClassView.swift */,
+				7B69F0642863B4740047F023 /* HomePageView.swift */,
 				7B7FF5A2271B1A320061D258 /* AIM__iOSApp.swift */,
 				7B7FF5A4271B1A320061D258 /* ContentView.swift */,
 				7B7FF5A6271B1A340061D258 /* Assets.xcassets */,
